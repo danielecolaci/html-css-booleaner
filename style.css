@@ -19,3 +19,27 @@ body{
 main{
     margin-left: 6px;
 }
+
+#title_main{
+    margin-bottom: 20px;
+}
+
+h1{
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+
+h4{
+    margin: 0%;
+    color: gray;
+}
+
+#booleaner{
+    color: #20A9E5;
+}
+
+#data{
+    margin: 0%;
+    color: gray;
+    font-size: 12px;
+}

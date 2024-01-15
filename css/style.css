@@ -52,3 +52,20 @@ h5{
     background-color: yellow;
 }
 
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    color: white;
+    background-color: #20A9E5;
+    text-align: left;
+}
+
+.rigacolorata{
+    background-color: #B1E5F2;
+}
+
+td{
+    width: 33%;
+}
